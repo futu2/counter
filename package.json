@@ -1,0 +1,28 @@
+{
+  "name": "vite-template-solid",
+  "version": "0.0.0",
+  "description": "",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "cssnano": "^6.0.0",
+    "daisyui": "^2.51.5",
+    "postcss": "^8.4.21",
+    "postcss-import": "^15.1.0",
+    "tailwindcss": "^3.3.1",
+    "vite": "^4.2.1",
+    "vite-plugin-solid": "^2.7.0"
+  },
+  "dependencies": {
+    "ikea-chinesename-generator": "^1.0.2",
+    "phosphor-solid": "^1.1.5",
+    "random_chinese_fantasy_names": "^0.1.18",
+    "solid-js": "^1.7.3"
+  }
+}
